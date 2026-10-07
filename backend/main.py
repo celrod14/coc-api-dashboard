@@ -17,12 +17,11 @@ FRONTEND_DIR = BASE_DIR / "frontend"
 # ============================================================
 # CLASH OF CLANS CONFIGURATION - EDIT THESE CONSTANTS
 # ============================================================
-# COC_API_KEY = "YOUR_API_KEY_HERE"
-COC_API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjgyODMwNjE5LTgxNGQtNDAwOS1hYzFkLWQ1YjVjYWZjYjVkYyIsImlhdCI6MTc5MTMzODkzNiwic3ViIjoiZGV2ZWxvcGVyL2NiOWE3ZDYzLTVhMWEtNGY4Ny04ZWZhLTFjNjRhNDE1ZjRlYiIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjE3My40MS4xNTUuMTU3Il0sInR5cGUiOiJjbGllbnQifV19.9FQQIMLEyhIXrxLFb0LIlP6-EtqENw-yV4m_TTjTtou_u46bfI8qpHEZU66OoFO0yJsMe-UjdLXgeD2gjQyxfA"
-COC_CLAN_TAG = "#G9LPUPYO"
+COC_API_KEY = "YOUR_API_KEY_HERE"
+COC_CLAN_TAG = "CLAN_TAGE"
 
 # Set False after entering your real API key + clan tag.
-USE_DEMO_DATA = False
+USE_DEMO_DATA = True
 
 API_BASE_URL = "https://api.clashofclans.com/v1"
 REQUEST_TIMEOUT_SECONDS = 15
